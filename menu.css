@@ -1,0 +1,25 @@
+nav ul{
+    padding: 0px;
+    margin: 10px 10px 0px 0px;
+    float: right;
+    list-style-type: none;
+}
+
+nav li{
+    display: inline-block;
+    width:100px;
+    height:40px;
+    margin:0px;
+    padding:0px;
+    text-align: center;
+    font-family: 'Trebuchet MS', Verdana, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+
+a.nounderline:link {
+    text-decoration:none;
+    color: black;
+}
