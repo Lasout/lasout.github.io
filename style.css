@@ -26,6 +26,7 @@ body {
     justify-content: center;
     font-size: xx-large;
     color: #FF9C2A;
+    background:#514E43;
 }
 #footer {
     display: flex;
