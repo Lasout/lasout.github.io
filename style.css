@@ -18,14 +18,12 @@ body {
     opacity: 0;
 }
 #body {
+    display: flex;
     padding:10px;
     padding-bottom:60px;   /* Height of the footer */
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
-    text-align: center;
-    min-height: 10em;
-    display: table-cell;
-    vertical-align: middle;
+    justify-content: center;
 }
 #footer {
     display: flex;
