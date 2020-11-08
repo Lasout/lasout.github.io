@@ -21,9 +21,6 @@ body {
     padding:10px;
     padding-bottom:60px;   /* Height of the footer */
 }
-#footer > a:link {
-    color: #000;
-}
 #footer {
     display: flex;
     position:absolute;
