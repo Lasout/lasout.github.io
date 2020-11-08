@@ -20,6 +20,10 @@ body {
 #body {
     padding:10px;
     padding-bottom:60px;   /* Height of the footer */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
 }
 #footer {
     display: flex;
