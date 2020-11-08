@@ -20,6 +20,8 @@ body {
 #body {
     padding:10px;
     padding-bottom:60px;   /* Height of the footer */
+}
+#body > p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
     text-align: center;
