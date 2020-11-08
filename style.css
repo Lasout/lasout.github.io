@@ -26,6 +26,9 @@ body {
     font-weight: bold;
     text-align: center;
     justify-content: center;
+    min-height: 10em;
+    display: table-cell;
+    vertical-align: middle;
 }
 #footer {
     display: flex;
