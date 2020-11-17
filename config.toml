@@ -16,7 +16,7 @@ enableRobotsTXT = true
 [params]
 title = "I'm Nicolas Kohout"
 author = "Nicolas Kohout"
-description = "Welding & Research Engineer, Project Manager and aspiring Developer"
+description = "The personal homepage of Nicolas Kohout"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -43,33 +43,21 @@ title = "GitHub"
 url = "https://github.com/Lasout"
 
 [[params.socialIcons]]
-icon = "fab fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/"
-
-[[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:mail@alexbilz.com"
+url = "mailto:mail@lasout.io"
 
 ## Menu items
-
-[menu]
+      [menu]
 
   [[menu.main]]
-  name = "Home"
-  identifier = "home"
+  name = "NK"
   weight = 100
+  identifier = "about"
   url = "/"
 
   [[menu.main]]
-  name = "Posts"
+  name = "My CV"
   weight = 200
-  identifier = "posts"
-  url = "/post/"
-
-  [[menu.main]]
-  name = "About"
-  weight = 300
-  identifier = "about"
-  url = "/about/"
+  identifier = "CV"
+  url = "/cv/"
