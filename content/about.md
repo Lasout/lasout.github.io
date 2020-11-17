@@ -2,7 +2,7 @@
 title = "About"
 description = "Lasout.io, the personal homepage of Nicolas Kohout"
 date = "2020-11-17"
-aliases = ["about-me","about-lasout","contact"]
+aliases = ["about-me","about-lasout"]
 author = "Nicolas Kohout"
 +++
 

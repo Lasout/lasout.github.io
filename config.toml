@@ -1,4 +1,4 @@
-baseURL = "https://lasout-dev.netlify.app/"
+baseURL = "https://lasout-dev.netlify.app"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Website of Nicolas Kohout"
@@ -54,7 +54,7 @@ url = "mailto:mail@lasout.io"
   name = "NK"
   weight = 100
   identifier = "about"
-  url = "/"
+  url = "/about/"
 
   [[menu.main]]
   name = "My CV"
